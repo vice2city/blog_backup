@@ -1,5 +1,5 @@
 ---
-title: 何地有方？
+title: 何地有方
 date: 2020-04-14 00:42:54
 tags: Nintendo Switch
 categories: Games
